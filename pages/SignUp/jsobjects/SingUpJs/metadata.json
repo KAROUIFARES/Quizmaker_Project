@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "SingUpJs",
+    "pageId": "SignUp",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "SignUp_SingUpJs",
+  "deleted": false,
+  "gitSyncId": "65392096955fc64ba598b3f9_653bb71de8a68e4c50b43629"
+}

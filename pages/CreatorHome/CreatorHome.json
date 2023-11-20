@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "SignUp",
-    "slug": "signup",
+    "name": "CreatorHome",
+    "slug": "creatorhome",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 650,
+          "bottomRow": 380,
           "containerStyle": "none",
           "snapRows": 63,
           "parentRowSpace": 1,
@@ -28,7 +28,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "SignUp",
+        "id": "CreatorHome",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -39,5 +39,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "65392096955fc64ba598b3f9_653bac80605a8e265329083b"
+  "gitSyncId": "65392096955fc64ba598b3f9_653ccb3b7796b524171b333b"
 }

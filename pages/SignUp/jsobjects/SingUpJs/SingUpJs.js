@@ -7,7 +7,9 @@ export default {
 			"phone":PhoneInput.text,
 			"password":PwdInput.text
 		}
-		storeValue("UserSingUp",user)
-		
+		var UserList=appsmith.store.userList
+		UserList.push(user)
+		storeValue("UserSingUp",UserList)
+		navigateTo("Login",{})
 	}
 }

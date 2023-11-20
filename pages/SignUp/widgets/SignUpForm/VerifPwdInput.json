@@ -9,13 +9,14 @@
     "leftColumn": 4,
     "dynamicBindingPathList": [
         {"key": "accentColor"},
-        {"key": "borderRadius"}
+        {"key": "borderRadius"},
+        {"key": "isRequired"}
     ],
     "labelStyle": "",
     "inputType": "PASSWORD",
     "placeholderText": "Rewrite your password",
     "isDisabled": false,
-    "isRequired": false,
+    "isRequired": "{{PwdInput.text===VerifPwdInput.text}}",
     "dynamicHeight": "FIXED",
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",
     "showStepArrows": false,
@@ -30,6 +31,7 @@
     "originalBottomRow": 37,
     "mobileBottomRow": 17,
     "widgetName": "VerifPwdInput",
+    "dynamicPropertyPathList": [{"key": "isRequired"}],
     "displayName": "Input",
     "searchTags": [
         "form",

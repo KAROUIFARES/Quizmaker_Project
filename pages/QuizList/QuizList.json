@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "SignUp",
-    "slug": "signup",
+    "name": "QuizList",
+    "slug": "quizlist",
     "layouts": [
       {
         "viewMode": false,
@@ -28,7 +28,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "SignUp",
+        "id": "QuizList",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -39,5 +39,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "65392096955fc64ba598b3f9_653bac80605a8e265329083b"
+  "gitSyncId": "65392096955fc64ba598b3f9_653cdcaf6e1ee539306f0fc3"
 }

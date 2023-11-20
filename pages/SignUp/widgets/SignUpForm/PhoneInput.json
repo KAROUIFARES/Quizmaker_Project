@@ -15,7 +15,7 @@
     "inputType": "NUMBER",
     "placeholderText": "Phone",
     "isDisabled": false,
-    "isRequired": false,
+    "isRequired": true,
     "dynamicHeight": "FIXED",
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",
     "showStepArrows": false,
